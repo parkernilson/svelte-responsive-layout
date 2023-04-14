@@ -2,7 +2,6 @@
     import '../app.css'
     import Sidebar from '../components/Sidebar.svelte'
     import Header from '../components/Header.svelte'
-    import { onMount } from 'svelte'
 
     let sidebar: HTMLElement
 
